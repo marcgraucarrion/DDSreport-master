@@ -1,0 +1,17 @@
+base
+dplyr
+tidyr
+DataExplorer
+ggridges
+ggplot2
+hrbrthemes
+viridisLite
+viridis
+usethis
+rvest
+xml2
+RJSONIO
+shiny
+jsonlite
+knitr
+kableExtra
